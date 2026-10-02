@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="hint_text">Nhập văn bản cần đọc</string>
+    <string name="button_speak">Phát giọng nói</string>
+    <string name="button_save">Lưu MP3</string>
+    <string name="status_default">Sẵn sàng</string>
+</resources>
